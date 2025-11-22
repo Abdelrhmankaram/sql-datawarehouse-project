@@ -6,6 +6,7 @@ GO
 Create DATABASE DataWarehouse;
 
 USE DataWarehouse;
+GO
 
 Create SCHEMA bronze;
 GO
