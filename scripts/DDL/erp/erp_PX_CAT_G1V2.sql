@@ -1,5 +1,6 @@
 IF OBJECT_ID('bronze.erp_PX_CAT_G1V', 'U') IS NOT NULL
 	DROP TABLE bronze.erp_PX_CAT_G1V
+	
 create table bronze.erp_PX_CAT_G1V2 (
 	ID VARCHAR(50),
 	CAT VARCHAR(50),
